@@ -1,0 +1,59 @@
+﻿abstract model,கருத்தியல் மாதிரி,වියුක්ත ආකෘතිය
+acceptance testing,ஏற்புச் சோதனை,ප්‍රතිග්‍රහණ පරික්ෂාව 
+access privilege,அணுகல் உரிமை,ප්‍රවේශවීමේ  වරප්‍රසාදය
+agile model,சுறுசுறுப்பு மாதிரி,සුචල්‍ය  ආකෘතිය 
+alternate key,மாற்றுச் சாவி,විකල්ප යතුර 
+American Standard Code for Information Interchange (ASCII),தகவல் இடைமாற்றுக்கான அமெரிக்க நியம விதிக்கோவை,තොරතුරු හුවමාරුව සඳහා වූ ඇමරිකානූ සම්මත කේතය
+amplitude,வீச்சம்,විස්තාරය 
+amplitude modulation,வீச்சப் பண்பேற்றம்,විස්තාර මූර්ඡනාව
+analog,ஒப்புமை,ප්‍රතිසම
+anchor,நிலை நிறுத்தி,රැඳවුම
+application layer,பிரயோக அடுக்கு,අනුප්‍රයොග ස්ථරය
+architecture,கட்டமைப்பு,නිර්මිතය
+arithmetic and logical unit (ALU),எண்கணித மற்றும் தர்க்க அலகு,අංක ගණිත හා තාර්කික ඒකකය
+array,அணி,අරාව
+artificial intelligence,செயற்கை நுண்ணறிவு,කෘතිම බුද්ධිය
+Affective computing,நுண்ணறிவு உணர்திறன்மிக்க கணித்தல்,බුද්ධිමත් සහ චිත්තවේගී පරිගණනය
+associative law,கூட்டு விதி,සංඝටන න්‍යාය
+attenuation,நொய்மை,හායනය
+attenuation,நொய்மை,වැහැරීම
+attribute,பண்புகள்,උපලැකිය
+attribute,பண்புகள், උපලක්ෂණය
+attribute,பண்புகள்,ගුණය
+authoring tool,படைப்பாக்கக் கருவி,සම්පාදන මෙවලම
+Automated Teller Machine (ATM),தானியங்கிப் பணம் கையாள் இயந்திரம்,ස්වයංකෘත මුදල් ගනුදෙනු යන්ත්‍රය
+autonomous,சுயாதீன,ස්වයංපාලය
+autonomous,சுயாதீன,ස්වායත්ත
+autonomous,சுயாதீன,ස්වතන්ත්‍ර
+backups,வெளிப்படை உண்மை,උපස්ථ
+bandwidth,காப்பெடுத்தல்,බඳස් පළල
+bandwidth,காப்பெடுத்தல்,කලාප පළල
+batch processing,பட்டை அகலம்,කාණ්ඩ සැකසුම
+big data,தொகுதி முறைவழியாக்கம்,මහා දත්ත
+binary,பெரிய தரவு,ද්විමය
+binary coded decimal (BCD),இருமக் குறிமுறை தசமம், ද්වීමය කේතික දශමය 
+bio-inspired computing,உயிரியல் உள்ளீர்ப்புக் கணிப்பு,ජෛව ප්‍රේරිත පරිගණනය
+bio-inspired computing,உயிரியல் உள்ளீர்ப்புக் கணிப்பு,ජෛව අනුප්‍රේරිත පරිගණනය
+bit coin,நுண்கடன் பணம் செலுத்தல், බිටු කාසි
+bitwise,பிட் வாரி,බිටු අනුසාරිත
+bitwise logical operation,பிட் வாரி தர்க்கச் செயற்பாடு,බිටු අනුසාරිත තාර්කික මෙහෙයුම්
+black box testing,கறுப்புப்பெட்டிச் சோதிப்பு,කාල මංජුසා පරික්ෂාව
+blogging,வலைப்பதிவிடல்,වේබ් සටහනය
+boot–up,தொடங்குதல்,ප්‍ර‍වේශනය
+broadcasting,தொலைபரப்பல், විකාශනය 
+browsing,மேலோடல்,අතරික්සීම
+bubble sort,குமிழி வகைப்படுத்தல்,යා-සැසඳුම් තේරීම
+bubble sort,குமிழி வகைப்படுத்தல்,බුබුළු තේරීම
+built-in,உட்பொதிந்த,තිළැලි
+built-in,உட்பொதிந்த,තුළබැඳි 
+business process re-engineering (BPR),வணிக செயல்முறை மீள்கட்டமைப்பு,ව්‍යාපාර ක්‍රියාවලියේ ප්‍රති ඉංජිනේරැකරණය
+candidate key,பிரதிநிதித்துவச் சாவி,නිරූප්‍ය යතුර
+cardinality,எண்ணளவை,ගණනීයතාව
+cathode ray tube (CRT),கதோட்டுக் கதிர் குழாய்,කැනෝඩ කිරණ නලය
+central processing unit (CPU),மத்திய செயற்பாட்டு அலகு,මධ්‍ය සැකසුම් ඒකකය 
+characteristics,சிறப்பியல்புகள்,ස්වලක්ෂණ
+characteristics,சிறப்பியல்புகள்,ගති ලක්ෂණ 
+check box,சரிபார்ப்புப் பெட்டி,සලකුණ කොටුව
+client-server model,சேவைப் பயனர் மாதிரி,සේවා යෝජක-සේවා දායක ආකෘතිය
+clock,கடிகாரம்,ස්පන්දකය
+cloud computing,மேகக் கணிமை,වලාකුළු පරිගණනය
